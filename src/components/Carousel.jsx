@@ -4,7 +4,6 @@ import '../assets/styles/components/Carousel.scss';
 const Carousel = ({ children }) => (
     <section className="carousel">
         <div className="carousel__container">
-        <h1>sfjlsdkjf</h1>
             {children}
         </div>
     </section>
